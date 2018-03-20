@@ -9,7 +9,7 @@ un camión de CDMX <> Cuernavaca.
 # EQUIPO
 
 **Product Owner:** Karina Quezada
-**UX Reseracher:**Marisol Juárez y Joali Gamboa
+**UX Researcher:** Marisol Juárez y Joali Gamboa
 **UX Designer:** Adriana Dillarza
 
 # PLANIFICACION
