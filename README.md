@@ -6,7 +6,7 @@ Es una plataforma de transporte colaborativo donde podrás compartir tu auto y r
 Entender y optimizar el journey de tomar 
 un camión de CDMX <> Cuernavaca.
 
-#EQUIPO
+# EQUIPO
 
 **Product Owner:** Karina Quezada
 **UX Reseracher:**Marisol Juárez y Joali Gamboa
