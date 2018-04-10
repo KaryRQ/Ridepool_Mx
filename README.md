@@ -180,4 +180,4 @@ al sitio no se registraron
 * Trello: https://trello.com/b/PvLg1uW6/ridepool
 * Presentación final: https://docs.google.com/presentation/d/1LfHBsqZp_Yb-ooDbUgJ52NM5QmhZpK7rithiXgL86GE/edit?usp=sharing
 
-
+# RidepoolMx
