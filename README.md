@@ -1,4 +1,5 @@
 # RidepoolMx
+![portadaridepool](https://user-images.githubusercontent.com/32855378/38586402-2f029f8e-3ce3-11e8-83fc-0703447ce4d3.png)
 
 Es una plataforma de transporte colaborativo donde podrás compartir tu auto y reducir costos, si eres pasajero también podrás ahorrar;todo esto con la seguridad de que viajas con usuarios 100% verificados.
 
