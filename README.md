@@ -1,30 +1,33 @@
 # RidepoolMx
+
+## Desarrollado para [Laboratoria](www.laboratoria.la)
+
 ![portadaridepool](https://user-images.githubusercontent.com/32855378/38586402-2f029f8e-3ce3-11e8-83fc-0703447ce4d3.png)
 
 Es una plataforma de transporte colaborativo donde podrás compartir tu auto y reducir costos, si eres pasajero también podrás ahorrar;todo esto con la seguridad de que viajas con usuarios 100% verificados.
 
-# RETO
+## RETO
 Entender y optimizar el journey de tomar 
 un camión de CDMX <> Cuernavaca.
 
-# EQUIPO
+## EQUIPO
 
 **Product Owner:** Karina Quezada
 **UX Researcher:** Marisol Juárez y Joali Gamboa
 **UX Designer:** Adriana Dillarza
 
-# PLANIFICACION
+## PLANIFICACION
 Para este reto el equipo llevo su proceso a través de Trello 
 
 ![trello](assets/images/trello.png)
 
-# OBJETIVO DE NEGOCIO
+## OBJETIVO DE NEGOCIO
 
 Lo primero que debimos establecer antes de comenzar nuestro proceso fue establecer un objetivo el cual fue:
 
 **Ofrecer mayor seguridad a los usuarios(pasajeros/conductores) del servicio de Blablacar a través de la formalización del servicio, sin tener que afectarlos en la economía de su viaje**
 
-# PROCESO
+## PROCESO
 
 Para este proyecto seguimos el siguiente proceso
 
@@ -39,7 +42,7 @@ Se debe entender al usuario o al cliente para poder darle una solución asus nec
 
 En este caso nos enfocamos al conductor y al pasajero que son quienes van a a usar nuestro servicio, con ello definimos las siguientes características:
 
-# Usuario 
+## Usuario 
 
 * Sentimientos: Hay demasiadas plataformas y líneas de autobuses pero no hay opciones muy económicas
 
@@ -51,7 +54,7 @@ En este caso nos enfocamos al conductor y al pasajero que son quienes van a a us
 
 * Objetivos:El usuario quiere llegar a su destino en tiempo y forma con lo establecido en su horario
 
-# Conductor
+## Conductor
 
 * Sentimientos: Puedo compartir mi auto y compartir los gastos de gasolina y casetas.
 
@@ -84,7 +87,7 @@ A pesar de esos retos tambien conseguimos los siguientes insights:
 * Los usuarios creen necesario pagar una penalización en caso de cancelar un viaje
 * A los usuarios les gustaría recibir artículos promocionales o recompensas al utilizar el servicio
 
-# DEFINIR
+## DEFINIR
 
 Después de analizar los resultados de la encuesta as+i como los insights resultantes se decidió que en lugar de mejorra el servicio de Bla Bla Car se crearía una empresa nueva que ofreciera la seguirar y confianza que el servicio existente no ofrece.
 
@@ -122,7 +125,7 @@ Con el objetivo bien definido pudimos obtener insights que definieron el proyect
 * Creen que es necesario que exista una penalización en caso de la cancelación de su viaje.
 * Les gusta la idea de economizar hasta en un 50% de cada viaje.
 
-# IDEAR
+## IDEAR
 
 Ya con toda la información recopilada en las etapas anteriores se comenzó a idear como sería y como funcionaría la solución
 
@@ -140,7 +143,7 @@ Para ayudar a que la solución fuera la mejor cada miembro del equipo realizó u
 ![Joali](assets/images/jo.jpg)
 ![Kary](assets/images/yo.jpg)
 
-# PROTOTIPAR
+## PROTOTIPAR
 
 Ya con una idea de como queriamos que se viera el diseño nuestra UX Designer comenzo a trabajar en la landing page con la herramienta Instapage, al cual se le fueron haciendo pequeñas modificaciones en base a comentarios que recibiamos en el proceso.
 
@@ -148,7 +151,7 @@ El resultado fue muy bien recibido por todo el equipo y fue el que se decidió l
 
 ![Landing Page](assets/images/landing.png)
 
-# EVALUAR
+## EVALUAR
 
 Se lanzó esta landing page a evaluación ligado a Google Analitycs y a Hotjar, estuvo recopilando información durante 3 días en lo cual pudimos obtener información valiosa y ver como es que nuestros usuarios interactuaban con la página los resultados se muestran a continuación:
 
@@ -175,9 +178,9 @@ al sitio no se registraron
 * Tuvimos 46 correos únicos por lo que se noto que hubo recurrencia por parte de los usuarios que entraron una vez
 
 
-# Documentos usados en el proyecto
+## Documentos usados en el proyecto
 
 * Trello: https://trello.com/b/PvLg1uW6/ridepool
 * Presentación final: https://docs.google.com/presentation/d/1LfHBsqZp_Yb-ooDbUgJ52NM5QmhZpK7rithiXgL86GE/edit?usp=sharing
 
-# RidepoolMx
+
